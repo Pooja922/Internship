@@ -1,0 +1,37 @@
+.outer_card{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 30px;
+}
+.inner_card{
+    width:280px;
+    height:400px;
+    background-color: black;
+    opacity: 60%;
+    color:white;
+    margin: 20px;
+    padding: 10px;
+    cursor:pointer;
+}
+.inner_card>p{
+    height: 40px;
+}
+/*.inner_card:hover{
+    transform: scale(1.1);
+}*/
+.detail{
+    display:flex;
+    padding:40px
+}
+.imageDisplay{
+    margin-top:20px;
+    padding: 20px;
+}
+.detailDisplay{
+    line-height: 30px;
+    padding-left: 30px;
+    text-align: justify;
+}
+.detailDisplay>p>a{
+    color:brown;
+}

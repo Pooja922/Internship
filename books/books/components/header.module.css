@@ -1,0 +1,25 @@
+.Header{
+    opacity: 80%;
+    background-image: url("/wallpaper.jpg");
+    height:350px;
+}
+.Toolbar{
+    color: white;
+    height: 70px;
+    background-color: black;
+    opacity: 90%;
+    display: flex;
+    padding:10px;
+}
+.Link{
+    margin-left: 1000px;
+    margin-top:20px;
+}
+.Link>a{
+    padding:15px;
+    color: white;
+    text-decoration: none;
+}
+.Link>a:hover{
+    border-bottom: 2px solid peru;
+}

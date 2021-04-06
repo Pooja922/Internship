@@ -1,0 +1,20 @@
+.Footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 155px;
+    padding:30px
+}
+.Link{
+    display: flex;
+    margin-left: 530px;
+}
+.Link>a{
+    padding: 20px;
+    color:white;
+    text-decoration: none;
+}
+.Link>a:hover{
+    color:peru;
+    font-size:large;
+}
