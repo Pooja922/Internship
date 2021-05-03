@@ -1,0 +1,19 @@
+.Navbar{
+    background-color: #00203FFF;
+    color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 1366px;
+}
+.Links{
+    margin-left: 30px !important;
+    padding: 5px;
+}
+.Links:hover{
+    background-color: #0B4E7D !important;
+    color: white;
+}
+.active{
+    background-color: peru;
+}

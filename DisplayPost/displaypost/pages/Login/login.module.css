@@ -1,0 +1,67 @@
+.Form {
+    text-align: center;
+    margin: 135px auto;
+    width: 600px;
+    background-color: white;
+    color: black;
+    padding: 40px 78px;
+    display: grid;
+    border: 10px solid #00203FFF;
+}
+.Form>input {
+    display: block;
+    margin: 5px auto;
+    padding: 7px;
+    outline: none;
+    width: 300px;
+    border: 2px solid #00203FFF;
+}
+.SubmitButton {
+    background-color: #00203FFF;
+    color: white;
+    width: 70px;
+    margin: 20px auto;
+    border:none;
+    padding: 5px;
+    border-radius: 4px;
+}
+.SubmitButton:hover {
+    background-color: #0B4E7D;
+    cursor: pointer;
+}
+.Form>a{
+    margin-top: 15px;
+    text-decoration: underline;
+}
+.Form>a:hover{
+    color:#0B4E7D;
+}
+.Form>input:disabled {
+    cursor: not-allowed;
+    color: white;
+    background-color: gray;
+}
+.alertSuccess {
+    position: absolute;
+    top: 9%;
+    left: 0;
+    color: white;
+    background-color: #78D749;
+    width: fit-content;
+}
+.alertError{
+    position: absolute;
+    top: 9%;
+    left: 0;
+    color: white;
+    background-color: red;
+    width: fit-content;
+}
+.alertWarn{
+    position: absolute;
+    top: 9%;
+    left: 0;
+    color: white;
+    background-color: brown;
+    width: fit-content;
+}

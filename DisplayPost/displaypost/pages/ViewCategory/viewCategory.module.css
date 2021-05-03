@@ -1,0 +1,10 @@
+.OuterCard{
+    padding: 80px;
+    font-family: "Times New Roman";
+}
+.InnerCard{
+    background-color: cornsilk;
+    margin: 20px;
+    padding: 20px;
+    border-left: 10px solid;
+}

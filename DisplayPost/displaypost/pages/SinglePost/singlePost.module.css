@@ -1,0 +1,28 @@
+.heading{
+    text-align: center;
+    margin: 80px 80px 30px;
+}
+.detail{
+    display: flex;
+    padding: 22px;
+}
+.imageDisplay{
+    padding: 20px;
+    border: 2px solid black;
+    height: fit-content;
+}
+.imageDisplay>img{
+    vertical-align: middle;
+    border-style: none;
+    width: 400px;
+    height: 300px;
+}
+.detailDisplay{
+    line-height: 30px;
+    padding: 21px;
+    width: 901px;
+    text-align: justify;
+}
+.detailDisplay>p>a{
+    color:brown;
+}

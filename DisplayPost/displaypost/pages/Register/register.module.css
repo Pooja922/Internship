@@ -1,0 +1,7 @@
+.OuterForm{
+    display:flex;
+}
+.inputs>input{
+    margin: 10px;
+    padding: 5px;
+}

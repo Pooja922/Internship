@@ -1,0 +1,34 @@
+.OuterCard{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+  margin: 70px 20px;
+  font-family: "Times New Roman";
+}
+.InnerCard{
+  background-color: cornsilk;
+  margin: 21px;
+  width: 275px;
+  height: 380px;
+  padding: 10px;
+
+}
+.InnerCard:hover{
+  cursor:pointer;
+  border:1px solid black;
+}
+.InnerCard>h5{
+  text-align: center;
+  height: 40px;
+}
+.PostImage{
+  height: 220px;
+  width: 250px;
+  margin: 10px 0;
+}
+.loginMessage{
+  background-color: khaki;
+  text-align: center;
+  padding: 20px;
+  margin:150px;
+}

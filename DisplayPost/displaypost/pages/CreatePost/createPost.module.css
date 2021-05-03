@@ -1,0 +1,73 @@
+.OuterForm{
+    background-color: white;
+    margin: 80px 20px 0 20px;
+}
+.postForm>label{
+    font-weight: bold;
+}
+.postForm {
+    padding: 20px;
+    display: flex;
+}
+.detailForm{
+    display: grid;
+    width: 300px;
+    margin: 20px;
+}
+.detailForm>input {
+    width: 250px;
+    height: 30px;
+    margin: 15px 0px;
+}
+.detailForm>input:disabled {
+    cursor: not-allowed;
+    color: white;
+    background-color: gray;
+}
+.error {
+    color: red;
+    margin: 0 0 15px 0;
+}
+.detailForm>input[type="file"] {
+    margin: 20px 0;
+}
+.detailForm>select {
+    width: 250px;
+}
+.detailForm>a{
+    color:white;
+    margin-top: 5px;
+}
+.detailFormForm>a:hover{
+    color:peru;
+}
+.contentForm{
+    margin: 40px;
+}
+.contentForm.ck.ck-editor {
+    position: relative;
+    margin-top: 15px;
+}
+.FormEnd{
+    padding: 20px 405px;
+}
+.FormEnd>input{
+    border: none;
+    outline: none;
+    padding: 15px;
+    background-color: #00203FFF;
+    color: white;
+}
+.FormEnd>input:hover{
+    background-color: #0B4E7D;
+    cursor: pointer;
+}
+.detailForm>label{
+    margin-top:20px;
+}
+.loginMessage{
+    background-color: khaki;
+    text-align: center;
+    padding: 20px;
+    margin:150px;
+}
