@@ -1,0 +1,21 @@
+.Header1{
+    background-color: #00203FFF;
+    color:white;
+    display: flex;
+    padding: 10px;
+}
+.Link1{
+    margin-left: 924px;
+    margin-top: 10px;
+}
+.Link1>a{
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+.Link1>a:hover{
+    border-bottom: 2px solid peru;
+    text-decoration: none;
+    color:white;
+}

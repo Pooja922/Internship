@@ -1,0 +1,629 @@
+[
+  {
+    "ProductName": "Lenovo IdeaPad D330 25.65 cm (10.1 inch) Wi-Fi Tablet 4 GB RAM, 128 GB, Mineral Grey 81H3S01S00",
+    "ProductType": "Laptop",
+    "ProductBrand": "Lenovo",
+    "ProductPrice": 21999,
+    "ProductImage": "Lenovo IdeaPad D330 25.65 cm (10.1 inch) Wi-Fi Tablet 4 GB RAM, 128 GB, Mineral Grey 81H3S01S00.jpg",
+    "ProductDescription": [
+      "Series: IdeaPad D330",
+      "Touch Screen: Yes",
+      "Screen Resolution: 1280 x 800 - HD",
+      "BatteryCapacity: 5080 mAh",
+      "Internal Storage: 128 GB",
+      "Processor: 1.10 GHz Intel Gemini Lake Celeron N4000"
+    ],
+    "ProductQuantity": 30
+  },
+  {
+    "ProductName": "Asus GA067T Laptop (AMD E2-7015/4GB/1TB HDD/AMD Radeon R2 Graphics/Windows 10/HD), 35.56 cm (14 inch)",
+    "ProductType": "Laptop",
+    "ProductBrand": "Asus",
+    "ProductPrice": 18999,
+    "ProductImage": "Asus GA067T Laptop.jpg",
+    "ProductDescription": [
+      "Model: E402YA-GA067T",
+      "Touch Screen: No",
+      "Screen Size (Diagonal): 35.56 cm (14 inch)",
+      "BatteryCapacity: 5080 mAh",
+      "Memory (RAM): 4 GB",
+      "Processor: 1.5 GHz AMD E2-7015"
+    ],
+    "ProductQuantity": 30
+  },
+  {
+    "ProductName": "Lenovo 52IN Ideapad Slim 1 Laptop (AMD A6/4 GB/64 GB/AMD Radeon R4 Graphics/Windows 10/MSO/HD), 35.56 cm (14 inch)",
+    "ProductType": "Laptop",
+    "ProductBrand": "Lenovo",
+    "ProductPrice": 21499,
+    "ProductImage": "Lenovo 52IN Ideapad Slim 1 Laptop (AMD A6/4 GB/64 GB/AMD Radeon R4 Graphics/Windows 10/MSO/HD), 35.56 cm (14 inch).jpg",
+    "ProductDescription": [
+      "Model: 81VS0052IN",
+      "Touch Screen: No",
+      "Screen Resolution: 1366 x 768",
+      "BatteryCapacity: 5080 mAh",
+      "Memory (RAM): 4 GB",
+      "Processor: 1.6 GHz Dual-core AMD A6-9220e"
+    ],
+    "ProductQuantity": 30
+  },
+  {
+    "ProductName": "Lenovo 7VIN Ideapad Slim 3 Laptop (10th Gen Intel Core i3-1005G1/4 GB/1 TB HDD/Intel UHD Graphics/Windows 10/MSO/FHD), 39.62 cm (15.6 inch)",
+    "ProductType": "Laptop",
+    "ProductBrand": "Lenovo",
+    "ProductPrice": 35499,
+    "ProductImage": "Lenovo 7VIN Ideapad Slim 3 Laptop.jpg",
+    "ProductDescription": [
+      "Model: 81WE007VIN",
+      "Touch Screen: No",
+      "Screen Resolution: 1920 x 1080 - FHD",
+      "BatteryCapacity: 5080 mAh",
+      "Memory (RAM): 4 GB",
+      "Processor: 3.4 GHz Dual-core Intel Core i3-1005G1"
+    ],
+    "ProductQuantity": 30
+  },
+  {
+    "ProductName": "Asus EJ302TS Laptop (10th Gen Intel Core i3-1005G1/4GB/1TB HDD/Intel UHD Graphics/Windows 10/MSO/FHD), 39.62 cm (15.6 inch)",
+    "ProductType": "Laptop",
+    "ProductBrand": "Asus",
+    "ProductPrice": 33999,
+    "ProductImage": "Asus EJ302TS Laptop .jpg",
+    "ProductDescription": [
+      "Model: EJ302TS",
+      "Touch Screen: No",
+      "Screen Resolution: 1920 x 1080 - FHD",
+      "BatteryCapacity: 5080 mAh",
+      "Memory (RAM): 4 GB",
+      "Processor: 1.2 GHz Dual-core Intel Core i3-1005G1 10th Gen Processor"
+    ],
+    "ProductQuantity": 30
+  },
+  {
+    "ProductName": "Asus 39.62 cm (15.6 inch) Laptop (8th Gen Core i5/1.6 GHz/8 GB/1 TB), X512FL-EJ042T",
+    "ProductType": "Laptop",
+    "ProductBrand": "Asus",
+    "ProductPrice": 55999,
+    "ProductImage": "Asus 39.62 cm Laptop.jpg",
+    "ProductDescription": [
+      "Model: X512FL-EJ042T",
+      "Touch Screen: No",
+      "Screen Size (Diagonal): 39.62 cm (15.6 inch)",
+      "BatteryCapacity: 5080 mAh",
+      "Memory (RAM): 8 GB",
+      "Processor: 1.6 GHz Intel Core i5-8265U"
+    ],
+    "ProductQuantity": 20
+  },
+  {
+    "ProductName": "Acer A315-56 Aspire 3 Thin Laptop (10th Gen Intel Core i3-1005G1/4 GB/1 TB HDD/Integrated Graphics/Windows 10/MSO/FHD), 39.62 cm (15.6 inch)",
+    "ProductType": "Laptop",
+    "ProductBrand": "Acer",
+    "ProductPrice": 34999,
+    "ProductImage": "Acer A315-56 Aspire 3 Thin Laptop.jpg",
+    "ProductDescription": [
+      "Model: A315-56",
+      "Touch Screen: No",
+      "Screen Resolution: 1920 x 1080 - FHD",
+      "BatteryCapacity: 5080 mAh",
+      "Memory (RAM): 4 GB",
+      "Processor: 1.20 GHz Dual-core Intel i3-1005G1 10th Gen Processor"
+    ],
+    "ProductQuantity": 20
+  },
+  {
+    "ProductName": "Acer A514-53 Aspire 5 Slim Laptop (10th Gen Intel Core i3-1005G1/4 GB/512 GB HDD/Integrated Graphics/Windows 10/MSO/FHD), 35.56 cm (14 inch)",
+    "ProductType": "Laptop",
+    "ProductBrand": "Acer",
+    "ProductPrice": 40999,
+    "ProductImage": "Acer A514-53 Aspire 5 Slim Laptop.jpg",
+    "ProductDescription": [
+      "Model: A514-53",
+      "Touch Screen: No",
+      "Screen Resolution: 1920 x 1080 - FHD",
+      "BatteryCapacity: 5080 mAh",
+      "Memory (RAM): 4 GB",
+      "Processor: Intel Core i3-1005G1 10th Gen Processor"
+    ],
+    "ProductQuantity": 25
+  },
+  {
+    "ProductName": "Acer A515-51G Aspire 5 Laptop (7th Gen Intel Core i3/4GB/1TB HDD/2GB Graphics/Windows 10/MSO), 39.62 cm (15.6 inch)",
+    "ProductType": "Laptop",
+    "ProductBrand": "Acer",
+    "ProductPrice": 42999,
+    "ProductImage": "Acer A515-51G Aspire 5 Laptop.jpg",
+    "ProductDescription": [
+      "Model: A514-53",
+      "Touch Screen: No",
+      "Screen Size (Diagonal): 39.62 cm (15.6 inch)",
+      "BatteryCapacity: 5080 mAh",
+      "Memory (RAM): 4 GB",
+      "Processor: Intel Core i3"
+    ],
+    "ProductQuantity": 25
+  },
+  {
+    "ProductName": "HP 14S-ER0002TU Laptop (10th Gen Core i3-1005G1/4GB/1TB HDD/Windows 10/MSO/FHD), 35.56 cm (14 inch)",
+    "ProductType": "Laptop",
+    "ProductBrand": "HP",
+    "ProductPrice": 40499,
+    "ProductImage": "HP 14S-ER0002TU Laptop.jpg",
+    "ProductDescription": [
+      "Model: 14S-ER0002TU",
+      "Touch Screen: No",
+      "Screen Resolution: 1920 x 1080 - FHD",
+      "BatteryCapacity: 5080 mAh",
+      "Memory (RAM): 4 GB",
+      "Processor: 10th Gen 1.2 GHz Dual-core Intel Core i3-1005G1"
+    ],
+    "ProductQuantity": 20
+  },
+  {
+    "ProductName": "HP 14s-cf3046tu Laptop (10th Gen Intel Core i3-1005G1/4 GB/1 TB HDD/Intel UHD Graphics/Windows 10/MSO/HD), 35.56 cm (14 inch)",
+    "ProductType": "Laptop",
+    "ProductBrand": "HP",
+    "ProductPrice": 36799,
+    "ProductImage": "HP 14s-cf3046tu Laptop.jpg",
+    "ProductDescription": [
+      "Model: 14s-cf3046tu",
+      "Touch Screen: No",
+      "Screen Size (Diagonal): 35.56 cm (14 inch)",
+      "BatteryCapacity: 5080 mAh",
+      "Memory (RAM): 4 GB",
+      "Processor: 1.2 GHz Dual-Core Intel Core i3-1005G1 10th Gen Processor"
+    ],
+    "ProductQuantity": 30
+  },
+  {
+    "ProductName": "HP 15s-du2004tu Standard Laptop (10th Gen Intel Core i3-1005G1/4 GB/1 TB SATA/Intel UHD Graphics/Windows 10 Home/Full HD), 39.6 cm (15.6 inch)",
+    "ProductType": "Laptop",
+    "ProductBrand": "HP",
+    "ProductPrice": 38999,
+    "ProductImage": "HP 15s-du2004tu Standard Laptop.jpg",
+    "ProductDescription": [
+      "Model: 15s-du2004tu",
+      "Touch Screen: No",
+      "Screen Resolution: 1920 x 1080 - FHD",
+      "BatteryCapacity: 5080 mAh",
+      "Memory (RAM): 4 GB",
+      "Processor: 1.2 GHz Dual-core Intel Core i3-1005G1 10th Gen"
+    ],
+    "ProductQuantity": 35
+  },
+  {
+    "ProductName": "Dell 3501 Inspiron Laptop (10th Gen Intel Core i3-1005G1/4GB/1TB HDD/Intel UHD Graphics/Windows 10/MSO/FHD), 38.1 cm (15 inch)",
+    "ProductType": "Laptop",
+    "ProductBrand": "Dell",
+    "ProductPrice": 38999,
+    "ProductImage": "HP 15s-du2004tu Standard Laptop.jpg",
+    "ProductDescription": [
+      "Model: 3501",
+      "Touch Screen: No",
+      "Screen Resolution: 1920 x 1080 - FHD",
+      "BatteryCapacity: 5080 mAh",
+      "Memory (RAM): 4 GB",
+      "Processor: Upto 3.4 GHz Dual-core Intel Core i3-1005G1 10th Gen Processor"
+    ],
+    "ProductQuantity": 35
+  },
+  {
+    "ProductName": "Dell 3593 Inspiron Laptop (10th Gen Intel Core i3-1005G1/4 GB/1 TB HDD/Windows 10/MSO/FHD), 39.62 cm (15.6 inch)",
+    "ProductType": "Laptop",
+    "ProductBrand": "Dell",
+    "ProductPrice": 35799,
+    "ProductImage": "Dell 3593 Inspiron Laptop.jpg",
+    "ProductDescription": [
+      "Model: 3593",
+      "Touch Screen: No",
+      "Screen Resolution: 1920 x 1080 - FHD",
+      "BatteryCapacity: 5080 mAh",
+      "Memory (RAM): 4 GB",
+      "Processor: Intel Core i3-1005G1 10th Gen Processor"
+    ],
+    "ProductQuantity": 30
+  },
+  {
+    "ProductName": "Dell 3493 Inspiron Laptop (10th Gen Intel Core i3-1005G1/4 GB/1 TB HDD/Intel HD Graphics/Windows 10/MSO/HD), 35.56 cm (14 inch)",
+    "ProductType": "Laptop",
+    "ProductBrand": "Dell",
+    "ProductPrice": 36199,
+    "ProductImage": "Dell 3493 Inspiron Laptop.jpg",
+    "ProductDescription": [
+      "Model: 3493",
+      "Touch Screen: No",
+      "Screen Resolution: 1366 x 768 -HD",
+      "BatteryCapacity: 5080 mAh",
+      "Memory (RAM): 4 GB",
+      "Processor: 3.4 GHz Dual-core Intel Core i3-1005G1 10th Gen Processor"
+    ],
+    "ProductQuantity": 30
+  },
+  {
+    "ProductName": "Samsung Galaxy A32 128 GB, 6 GB RAM, Awesome Black, Smartphone",
+    "ProductType": "Smartphone",
+    "ProductBrand": "Samsung",
+    "ProductPrice": 20499,
+    "ProductImage": "Samsung Galaxy A32 128 GB, 6 GB RAM, Awesome Black, Smartphone.jpg",
+    "ProductDescription": [
+      "Model: A32",
+      "Internal Storage: 128 GB",
+      "Colour: Awesome Black",
+      "Battery Capacity: 5000 mAh",
+      "Memory (RAM): 6 GB",
+      "Processor: 2 GHz,1.8 GHz Octa-Core Processor",
+      "Screen Resolution: 2400 x 1080 - FHD+"
+    ],
+    "ProductQuantity": 40
+  },
+  {
+    "ProductName": "Samsung Galaxy F62 128 GB, 6 GB RAM, Gray, Smartphone",
+    "ProductType": "Smartphone",
+    "ProductBrand": "Samsung",
+    "ProductPrice": 23999,
+    "ProductImage": "Samsung Galaxy F62 128 GB, 6 GB RAM, Gray, Smartphone.jpg",
+    "ProductDescription": [
+      "Model: F62",
+      "Internal Storage: 128 GB",
+      "Colour: Gray",
+      "Battery Capacity: 7000 mAh",
+      "Memory (RAM): 6 GB",
+      "Processor: Exynos 9825 Processor",
+      "Screen Resolution: 2400 x 1080 - FHD+"
+    ],
+    "ProductQuantity": 40
+  },
+  {
+    "ProductName": "Samsung Galaxy M Series M02 32 GB, 3 GB RAM, Gray, Smartphone",
+    "ProductType": "Smartphone",
+    "ProductBrand": "Samsung",
+    "ProductPrice": 7999,
+    "ProductImage": "Samsung Galaxy M Series M02 32 GB, 3 GB RAM, Gray, Smartphone.jpg",
+    "ProductDescription": [
+      "Model: M02",
+      "Internal Storage: 32 GB",
+      "Colour: Gray",
+      "Battery Capacity: 5000 mAh",
+      "Memory (RAM): 3 GB",
+      "Processor: 1.5 GHz Quad-Core MediaTek Processor",
+      "Screen Resolution: 1600 x 720"
+    ],
+    "ProductQuantity": 40
+  },
+  {
+    "ProductName": "Realme C Series C12 64 GB, 4 GB RAM, Power Blue, Smartphone",
+    "ProductType": "Smartphone",
+    "ProductBrand": "Realme",
+    "ProductPrice": 8999,
+    "ProductImage": "Realme C Series C12 64 GB, 4 GB RAM, Power Blue, Smartphone.jpg",
+    "ProductDescription": [
+      "Model: C12",
+      "Internal Storage: 64 GB",
+      "Colour: Power Blue",
+      "Battery Capacity: 6000 mAh",
+      "Memory (RAM): 4 GB",
+      "Processor: 2.3GHz Octa-Core Helio G35",
+      "Screen Size (Diagonal): 16.51 cm (6.5 inch)"
+    ],
+    "ProductQuantity": 40
+  },
+  {
+    "ProductName": "Realme 8, 128 GB, 8 GB RAM, Carbon Black, Smartphone",
+    "ProductType": "Smartphone",
+    "ProductBrand": "Realme",
+    "ProductPrice": 16999,
+    "ProductImage": "Realme 8, 128 GB, 8 GB RAM, Carbon Black, Smartphone.jpg",
+    "ProductDescription": [
+      "Model: X7",
+      "Internal Storage: 128 GB",
+      "Colour: Carbon Black",
+      "Battery Capacity: 5000 mAh",
+      "Memory (RAM): 8 GB",
+      "Processor: 2.05 GHz Octa-core MediaTek Helio G95 Processor",
+      "Screen Resolution: 2400 x 1080 - FHD+"
+    ],
+    "ProductQuantity": 40
+  },
+  {
+    "ProductName": "Vivo Y20G 128 GB, 6 GB RAM, Purist Blue, Smartphone",
+    "ProductType": "Smartphone",
+    "ProductBrand": "Vivo",
+    "ProductPrice": 14990,
+    "ProductImage": "Vivo Y20G 128 GB, 6 GB RAM, Purist Blue, Smartphone.jpg",
+    "ProductDescription": [
+      "Model: Y20G",
+      "Internal Storage: 128 GB",
+      "Colour: Purist Blue",
+      "Battery Capacity: 5000 mAh",
+      "Memory (RAM): 6 GB",
+      "Processor: Upto 2.0 GHz Octa-Core Helio G80 Processor",
+      "Screen Size (Diagonal): 16.55 cm (6.51 inch)"
+    ],
+    "ProductQuantity": 50
+  },
+  {
+    "ProductName": "Realme X Series X7 128 GB, 6 GB RAM, Space Silver, Smartphone",
+    "ProductType": "Smartphone",
+    "ProductBrand": "Realme",
+    "ProductPrice": 18999,
+    "ProductImage": "Realme X Series X7 128 GB, 6 GB RAM, Space Silver, Smartphone.jpg",
+    "ProductDescription": [
+      "Model: X7",
+      "Internal Storage: 128 GB",
+      "Colour: Space Silver",
+      "Battery Capacity: 4310 mAh",
+      "Memory (RAM): 4 GB",
+      "Processor: Upto 2.4 GHz Octa-Core Dimensity 800U Processor",
+      "Screen Resolution: 2400 x 1080 - FHD+"
+    ],
+    "ProductQuantity": 40
+  },
+  {
+    "ProductName": "Vivo V20 128 GB, 8 GB RAM, Midnight Jazz, Smartphone",
+    "ProductType": "Smartphone",
+    "ProductBrand": "Vivo",
+    "ProductPrice": 22990,
+    "ProductImage": "Vivo V20 128 GB, 8 GB RAM, Midnight Jazz, Smartphone.jpg",
+    "ProductDescription": [
+      "Model: V20",
+      "Internal Storage: 128 GB",
+      "Colour: Midnight Jazz",
+      "Battery Capacity: 5000 mAh",
+      "Memory (RAM): 8 GB",
+      "Processor: Qualcomm Snapdragon 720G Mobile Platform",
+      "Screen Resolution: 2400 x 1080 - FHD+"
+    ],
+    "ProductQuantity": 50
+  },
+  {
+    "ProductName": "Vivo X60 128 GB, 8 GB RAM, Midnight Black, Smartphone",
+    "ProductType": "Smartphone",
+    "ProductBrand": "Vivo",
+    "ProductPrice": 37990,
+    "ProductImage": "Vivo X60 128 GB, 8 GB RAM, Midnight Black, Smartphone.jpg",
+    "ProductDescription": [
+      "Model: X60",
+      "Internal Storage: 128 GB",
+      "Colour: Midnight Black",
+      "Battery Capacity: 4300 mAh",
+      "Memory (RAM): 8 GB",
+      "Processor: Qualcomm Snapdragon 870",
+      "Screen Resolution: 2376 x 1080 - FHD+"
+    ],
+    "ProductQuantity": 20
+  },
+  {
+    "ProductName": "Moto Edge+ 256 GB, 12 GB RAM, Smoky Sangria, Smartphone",
+    "ProductType": "Smartphone",
+    "ProductBrand": "Motorola",
+    "ProductPrice": 74999,
+    "ProductImage": "Moto Edge+ 256 GB, 12 GB RAM, Smoky Sangria, Smartphone.jpg",
+    "ProductDescription": [
+      "Model: Edge+",
+      "Internal Storage: 256 GB",
+      "Colour: Smoky Sangria",
+      "Battery Capacity: 5000 mAh",
+      "Memory (RAM): 12 GB",
+      "Processor: Qualcomm Snapdragon 865 Octa-Core Processor",
+      "Screen Resolution: 2340 x 1080 - FHD+"
+    ],
+    "ProductQuantity": 20
+  },
+  {
+    "ProductName": "MOTOROLA G30 (Pastel Sky, 4GB RAM, 64GB Storage)",
+    "ProductType": "Smartphone",
+    "ProductBrand": "Motorola",
+    "ProductPrice": 12990,
+    "ProductImage": "MOTOROLA G30 (Pastel Sky, 4GB RAM, 64GB Storage).jpg",
+    "ProductDescription": [
+      "Model: G30",
+      "Internal Storage: 64 GB",
+      "Colour: Pastel Sky",
+      "Battery Capacity: 5000 mAh",
+      "Memory (RAM): 4 GB",
+      "Processor: Snapdragon 662 Processor",
+      "Screen Resolution: 2340 x 1080 - FHD+"
+    ],
+    "ProductQuantity": 20
+  },
+  {
+    "ProductName": "Motorola One Fusion+ (Twilight Blue, 128 GB) (6 GB RAM)",
+    "ProductType": "Smartphone",
+    "ProductBrand": "Motorola",
+    "ProductPrice": 19990,
+    "ProductImage": "Motorola One Fusion+ (Twilight Blue, 128 GB) (6 GB RAM).jpg",
+    "ProductDescription": [
+      "Model: Fusion+",
+      "Internal Storage: 128 GB",
+      "Colour: Twilight Blue",
+      "Battery Capacity: 5000 mAh",
+      "Memory (RAM): 6 GB",
+      "Processor: Qualcomm Snapdragon 730G Processor",
+      "Screen Resolution: 2340 x 1080 - FHD+"
+    ],
+    "ProductQuantity": 20
+  },
+  {
+    "ProductName": "OnePlus Nord, 256 GB, 12 GB RAM, Blue Marble, Smartphone",
+    "ProductType": "Smartphone",
+    "ProductBrand": "OnePlus",
+    "ProductPrice": 29990,
+    "ProductImage": "OnePlus Nord, 256 GB, 12 GB RAM, Blue Marble, Smartphone.jpg",
+    "ProductDescription": [
+      "Model: Nord",
+      "Internal Storage: 256 GB",
+      "Colour: Blue Marble",
+      "Battery Capacity: 5000 mAh",
+      "Memory (RAM): 12 GB",
+      "Processor: 2.4 GHz Octa-Core Qualcomm Snapdragon 765G 5G mobile platform",
+      "Screen Resolution: 2400 x 1080"
+    ],
+    "ProductQuantity": 20
+  },
+  {
+    "ProductName": "OnePlus Nord, 128 GB, 8 GB RAM, Gray Onyx, Smartphone",
+    "ProductType": "Smartphone",
+    "ProductBrand": "OnePlus",
+    "ProductPrice": 27990,
+    "ProductImage": "OnePlus Nord, 128 GB, 8 GB RAM, Gray Onyx, Smartphone.jpg",
+    "ProductDescription": [
+      "Model: Nord",
+      "Internal Storage: 128 GB",
+      "Colour: Gray Onyx",
+      "Battery Capacity: 4115 mAh",
+      "Memory (RAM): 8 GB",
+      "Processor: 2.4 GHz Octa-Core Qualcomm Snapdragon 765G 5G mobile platform",
+      "Screen Resolution: 2400 x 1080"
+    ],
+    "ProductQuantity": 20
+  },
+  {
+    "ProductName": "OnePlus 9R 128 GB, 8 GB RAM, Lake Blue, Smartphone",
+    "ProductType": "Smartphone",
+    "ProductBrand": "OnePlus",
+    "ProductPrice": 39999,
+    "ProductImage": "OnePlus 9R 128 GB, 8 GB RAM, Lake Blue, Smartphone.jpg",
+    "ProductDescription": [
+      "Model: 9R",
+      "Internal Storage: 128 GB",
+      "Colour: Lake Blue",
+      "Battery Capacity: 4500 mAh",
+      "Memory (RAM): 8 GB",
+      "Processor: Qualcomm Snapdragon 870",
+      "Screen Resolution: 2400 x 1080 - FHD+"
+    ],
+    "ProductQuantity": 10
+  },
+  {
+    "ProductName": "Samsung 80 cm (32 inch) HD Ready LED TV, 4 Series 32T4050",
+    "ProductType": "TV",
+    "ProductBrand": "Samsung",
+    "ProductPrice": 15890,
+    "ProductImage": "Samsung 80 cm (32 inch) HD Ready LED TV, 4 Series 32T4050.jpg",
+    "ProductDescription": [
+      "Series: 4 Series",
+      "Model: 32T4050",
+      "Colour: Black",
+      "Power Consumption: 60 Watts",
+      "Screen Resolution: 1366 x 768 -HD"
+    ],
+    "ProductQuantity": 30
+  },
+  {
+    "ProductName": "Samsung 80 cm (32 inch) HD Smart LED TV, Series 4 32T4350AK",
+    "ProductType": "TV",
+    "ProductBrand": "Samsung",
+    "ProductPrice": 20740,
+    "ProductImage": "Samsung 80 cm (32 inch) HD Smart LED TV, Series 4 32T4350AK.jpg",
+    "ProductDescription": [
+      "Series: 4 Series",
+      "Model: 32T4350AK",
+      "Colour: Black",
+      "Power Consumption: 59 Watts",
+      "Screen Size (Diagonal): 80 cm (32 inch)"
+    ],
+    "ProductQuantity": 15
+  },
+  {
+    "ProductName": "Samsung 108 cm (43 inch) Full HD LED Smart TV, 5 Series 43T5350",
+    "ProductType": "TV",
+    "ProductBrand": "Samsung",
+    "ProductPrice": 36990,
+    "ProductImage": "Samsung 108 cm (43 inch) Full HD LED Smart TV, 5 Series 43T5350.jpg",
+    "ProductDescription": [
+      "Series: 5 Series",
+      "Model: 43T5350",
+      "Colour: Black",
+      "Power Consumption: 74 Watts",
+      "Screen Size (Diagonal): 108 cm (43 inch)"
+    ],
+    "ProductQuantity": 25
+  },
+  {
+    "ProductName": "Sony Bravia 80 cm (32 inch) HD Smart LED TV 32W6100 (Black)",
+    "ProductType": "TV",
+    "ProductBrand": "Samsung",
+    "ProductPrice": 25490,
+    "ProductImage": "Sony Bravia 80 cm (32 inch) HD Smart LED TV 32W6100 (Black).jpg",
+    "ProductDescription": [
+      "Series: W6100",
+      "Model: 32W6100",
+      "Colour: Black",
+      "Power Consumption: 50 Watts",
+      "Screen Size (Diagonal): 80 cm (32 inch)"
+    ],
+    "ProductQuantity": 25
+  },
+  {
+    "ProductName": "Sony 60.96 cm (24 inch) HD LED TV, KLV-24P413D",
+    "ProductType": "TV",
+    "ProductBrand": "Samsung",
+    "ProductPrice": 11990,
+    "ProductImage": "Sony 60.96 cm (24 inch) HD LED TV, KLV-24P413D.jpg",
+    "ProductDescription": [
+      "Model: KLV-24P413D",
+      "Colour: Black",
+      "Power Consumption: 36 Watts",
+      "Screen Size (Diagonal): 60.96 cm (24 inch)"
+    ],
+    "ProductQuantity": 40
+  },
+  {
+    "ProductName": "Sony Bravia 80 cm (32 inch) HD Ready LED TV KLV-32R202G",
+    "ProductType": "TV",
+    "ProductBrand": "Sony",
+    "ProductPrice": 19990,
+    "ProductImage": "Sony Bravia 80 cm (32 inch) HD Ready LED TV KLV-32R202G (Dark Brown).jpg",
+    "ProductDescription": [
+      "Series: R202G",
+      "Model: KLV-32R202G",
+      "Colour: Black",
+      "Power Consumption: 47 Watts",
+      "Screen Size (Diagonal): 80 cm (32 inch)"
+    ],
+    "ProductQuantity": 25
+  },
+  {
+    "ProductName": "LG 81.28 cms (32 Inch) HD Ready Smart LED TV 32LK616B",
+    "ProductType": "TV",
+    "ProductBrand": "Sony",
+    "ProductPrice": 21890,
+    "ProductImage": "LG 81.28 cms (32 Inch) HD Ready Smart LED TV 32LK616B.jpg",
+    "ProductDescription": [
+      "Series: LK61",
+      "Model: 32LK616B",
+      "Colour: Grey",
+      "Power Supply: AC 100-240 V",
+      "Screen Size (Diagonal): 80 cm (32 inch)"
+    ],
+    "ProductQuantity": 25
+  },
+  {
+    "ProductName": "LG 80 cm (32 inch) HD Ready LED Smart TV, 32LM560",
+    "ProductType": "TV",
+    "ProductBrand": "LG",
+    "ProductPrice": 18030,
+    "ProductImage": "LG 80 cm (32 inch) HD Ready LED Smart TV, 32LM560.jpg",
+    "ProductDescription": [
+      "Model: 32LM560",
+      "Colour: Black",
+      "Power Supply: AC100-240V 50/60Hz",
+      "Screen Size (Diagonal): 80 cm (32 inch)"
+    ],
+    "ProductQuantity": 20
+  },
+  {
+    "ProductName": "LG 139.7 cm (55 inch) Ultra HD (4K) LED Smart TV, 55UN7350",
+    "ProductType": "TV",
+    "ProductBrand": "LG",
+    "ProductPrice": 69490,
+    "ProductImage": "LG 139.7 cm (55 inch) Ultra HD (4K) LED Smart TV, 55UN7350.jpg",
+    "ProductDescription": [
+      "Model: 55UN7350",
+      "Colour: Dark Iron Gray",
+      "Power Supply: AC100-240V 50/60Hz",
+      "Screen Size (Diagonal): 139.7 cm (55 inch)"
+    ],
+    "ProductQuantity": 10
+  }
+]

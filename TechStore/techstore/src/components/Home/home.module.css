@@ -1,0 +1,25 @@
+.CarouselImage {
+    width: inherit;
+    height: 400px;
+}
+.OuterCard{
+     display:flex;
+     flex-wrap: wrap;
+    padding: 50px;
+ }
+ .InnerCard{
+     border: 1px solid peru;
+     width: 300px;
+     height: 300px;
+ }
+.CardImage{
+    width: inherit;
+    padding: 20px;
+    height: 255px;
+}
+.CardTitle{
+    text-align: center;
+    padding: 5px;
+    font-size: large;
+    font-weight: bold;
+}

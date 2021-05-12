@@ -1,0 +1,9 @@
+.Footer{
+    background-color: #00203FFF;
+    color: white;
+    display: flex;
+    padding: 65px;
+}
+.Footer>div {
+    padding-right: 190px;
+}
